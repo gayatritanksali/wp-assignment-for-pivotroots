@@ -1,0 +1,18 @@
+.main-menu li a{color:#393E41 !important; background: #F4F129;padding: 10px 20px;border-radius: 20px; }
+.main-navigation{margin-top:30px;}
+.site-footer,.site-header{background:#393E41;}
+.site-title a:link, .site-title a:visited, .site-title a,.site-description{color:#fff !important;}
+#sui_upload_image_form input[type=text]{width:200px; border-radius: 20px;}
+.img_gallery_list li{list-style-type: none;display: inline;float: left;margin: 20px 40px 20px 0 !important;}
+.img_title{text-align:center;}
+.img_thumb{border: 5px solid #ccc;border-radius: 10px;padding: 10px;text-align: center;}
+.sui_note{font-weight: bold; font-size: 14px; color:#393E41;}
+#sui_submit{color: #393E41 !important;
+background: #F4F129;
+padding: 10px 20px;
+border-radius: 20px;
+margin-top: 22px;
+border: 1px solid #000;}
+
+#sui_upload_image_form label{font-weight: bold; color:#393E41;}
+#colophon .site-info{color:#fff;}
